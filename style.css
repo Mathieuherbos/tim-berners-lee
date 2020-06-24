@@ -27,7 +27,7 @@ header
     box-shadow: 1px 6px 6px 1px #dddddd;
 }
 
-.middle
+section
 {
     grid-column: 3/7;
     grid-row: 6/8;
@@ -95,7 +95,7 @@ header h1
     padding: 20px 40px;
  }
 
- .middle a:link
+ section a:link
  {
      color:#a5a2a0 ;
      text-decoration: none;
